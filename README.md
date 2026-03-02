@@ -1,3 +1,7 @@
+# Kick
+
+⛹
+
 # ExamConnect
 
 A project I built to practice real-time systems, authentication, and database-driven apps.
